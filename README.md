@@ -39,7 +39,7 @@ Here are some of the projects you’ll find on my GitHub:
 ---
 
 ## 🔗 Connect With Me
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/hassan-ali786
 - LinkedIn: (add your LinkedIn profile link here)
 
 ---
