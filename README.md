@@ -40,7 +40,7 @@ Here are some of the projects you’ll find on my GitHub:
 
 ## 🔗 Connect With Me
 - GitHub: https://github.com/hassan-ali786
-- LinkedIn: (add your LinkedIn profile link here)
+- LinkedIn: (https://www.linkedin.com/in/hassan-ali-885535321?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
