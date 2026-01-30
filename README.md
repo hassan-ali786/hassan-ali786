@@ -21,7 +21,7 @@ I enjoy solving problems, writing clean code, and continuously improving my tech
 
 ---
 
-## 📂 Projects
+##  Projects
 Here are some of the projects you’ll find on my GitHub:
 - 📊 Data Analysis projects using real datasets  
 - 🤖 Machine Learning models (classification & prediction)  
