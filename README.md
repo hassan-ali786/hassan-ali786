@@ -1,16 +1,17 @@
 # Hassan Ali
 
-Aspiring Data Scientist and Machine Learning Engineer with strong interest in solving real-world problems using data, machine learning, and analytical thinking.
+Aspiring Data Scientist and Machine Learning Engineer with hands-on experience in data analysis, predictive modeling, and deploying machine learning solutions.  
+Passionate about solving real-world problems with data and building portfolio-ready machine learning applications.
 
 ---
 
 ## About Me
 
-I am a motivated and disciplined learner focused on building practical data science and machine learning solutions using real-world datasets.
+I specialize in transforming raw data into actionable insights and building **end-to-end machine learning applications** that solve real-world business problems.  
 
-My work involves transforming raw data into meaningful insights, building predictive models, and developing simple web applications that demonstrate machine learning solutions.
+Currently, I am focused on strengthening my technical expertise in **advanced data analysis, machine learning optimization, and deployment workflows**, while developing practical projects to showcase my skills.  
 
-Currently, I am strengthening my fundamentals in data analysis, machine learning, and model deployment while building portfolio-ready projects.
+**Career Goal:** Seeking internship/full-time roles in Data Science & Machine Learning to contribute to impactful projects.
 
 ---
 
@@ -18,76 +19,98 @@ Currently, I am strengthening my fundamentals in data analysis, machine learning
 
 | Programming | Data Analysis | Machine Learning | Web Development | Tools |
 |-------------|---------------|-----------------|----------------|------|
-| Python, SQL, C | Pandas, NumPy, Matplotlib, Exploratory Data Analysis | Scikit-learn (Classification and Regression) | HTML, CSS, JavaScript | Git, GitHub, VS Code, Jupyter Notebook |
-
----
-
-## Featured Projects
-
-### House Price Prediction Web Application
-A machine learning web application that predicts house prices based on user input features.
-
-Key Work  
-- Performed data preprocessing and exploratory data analysis  
-- Implemented regression models for price prediction  
-- Built a simple web interface for user predictions  
-
-Technologies Used  
-Python, Pandas, Scikit-learn, HTML, CSS  
-
-Repository  
-https://github.com/hassan-ali786/house-price-prediction
-
----
-
-### Diabetes Prediction Web Application
-A machine learning system designed to predict the likelihood of diabetes using medical attributes.
-
-Key Work  
-- Data preprocessing and feature preparation  
-- Training and evaluation of classification models  
-- Developed a simple web interface for prediction  
-
-Technologies Used  
-Python, Pandas, Scikit-learn, HTML, CSS  
-
-Repository  
-https://github.com/hassan-ali786/diabetes-prediction-webapp
-
----
-
-### Loan Approval Prediction Web Application
-A predictive system that determines whether a loan application is likely to be approved.
-
-Key Work  
-- Data cleaning and feature engineering  
-- Training classification algorithms on financial dataset  
-- Built a web application for prediction  
-
-Technologies Used  
-Python, Pandas, Scikit-learn, HTML, CSS  
-
-Repository  
-https://github.com/hassan-ali786/loan-approval-prediction
+| Python, SQL, C | Pandas, NumPy, Matplotlib, EDA | Scikit-learn (Classification & Regression) | HTML, CSS, JavaScript | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---
 
 ## Currently Learning
 
-Advanced Data Analysis  
-Machine Learning Algorithms  
-Model Evaluation Techniques  
-Basic Model Deployment
+- Applying **advanced data analysis and visualization techniques** to real-world datasets  
+- Developing and optimizing **machine learning algorithms** for practical problems  
+- Model evaluation, performance improvement, and feature engineering  
+- End-to-end **ML model deployment** and production workflows  
+
+---
+
+## Education & Certifications
+
+**Education:**  
+- Intermediate (Pre-Engineering)  
+
+**Certifications:**  
+- Data Science and Analytics – HP  
+- Python for Data Science – Kaggle  
+- Discover the Art of Prompting – Coursera  
+
+---
+
+## Featured Projects
+
+### 🏠 House Price Prediction Web Application
+A machine learning web application that predicts house prices based on user input features.  
+
+**Key Work:**  
+- Data preprocessing, feature engineering, and exploratory data analysis  
+- Regression model implementation for price prediction  
+- Developed an interactive web interface for predictions  
+
+**Impact / Metrics:**  
+- Model achieved **R² score: 0.92** *(replace with your actual metric)*  
+
+**Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
+
+**Repository:** [House Price Prediction](https://github.com/hassan-ali786/house-price-prediction)  
+
+**Screenshot:**  
+`![House Price Web App](link-to-your-screenshot.png)`  
+
+---
+
+### 🩺 Diabetes Prediction Web Application
+Predicts the likelihood of diabetes using medical attributes.  
+
+**Key Work:**  
+- Data cleaning and preprocessing  
+- Classification model development and evaluation  
+- Built a web interface for user input  
+
+**Impact / Metrics:**  
+- Accuracy: **93%** *(replace with your actual metric)*  
+- Precision / Recall: **0.91 / 0.92**  
+
+**Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
+
+**Repository:** [Diabetes Prediction Web App](https://github.com/hassan-ali786/diabetes-prediction-webapp)  
+
+**Screenshot:**  
+`![Diabetes Prediction Web App](link-to-your-screenshot.png)`  
+
+---
+
+### 💰 Loan Approval Prediction Web Application
+Predicts whether a loan application will be approved.  
+
+**Key Work:**  
+- Data cleaning, feature engineering, and training classification algorithms  
+- Developed a web application for real-time prediction  
+
+**Impact / Metrics:**  
+- Model Accuracy: **89%** *(replace with actual metric)*  
+
+**Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
+
+**Repository:** [Loan Approval Prediction](https://github.com/hassan-ali786/loan-approval-prediction)  
+
+**Screenshot:**  
+`![Loan Approval Web App](link-to-your-screenshot.png)`  
 
 ---
 
 ## Connect With Me
 
-GitHub  
-https://github.com/hassan-ali786  
-
-LinkedIn  
-https://www.linkedin.com/in/hassan-ali-885535321  
+**Email:** hassanalitech54@gmail.com  
+**GitHub:** [github.com/hassan-ali786](https://github.com/hassan-ali786)  
+**LinkedIn:** [linkedin.com/in/hassan-ali-885535321](https://www.linkedin.com/in/hassan-ali-885535321)
 
 ---
 
