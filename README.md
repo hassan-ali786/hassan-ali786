@@ -1,95 +1,104 @@
-Hi, I'm Hassan Ali 👋
-# Hi, I'm Hassan Ali 👋
+# Hassan Ali
 
-🎓 Computer Science Enthusiast
-📊 Aspiring Data Scientist | Machine Learning Learner
-💻 Passionate about solving real-world problems using data
-🎓 **Computer Science Enthusiast**  
-📊 **Aspiring Data Scientist | Machine Learning Learner**  
-💻 **Passionate about solving real-world problems using data**
+Aspiring Data Scientist and Machine Learning Engineer with strong interest in solving real-world problems using data, machine learning, and analytical thinking.
 
-🚀 About Me
 ---
 
-I am a motivated and disciplined learner with hands-on experience in data analysis and machine learning projects using real-world datasets.
-I enjoy transforming raw data into meaningful insights, building predictive models, and continuously improving my technical and analytical skills.
-## 🚀 About Me
+## About Me
 
-Currently, I am focused on strengthening my fundamentals and creating portfolio-ready projects.
-I am a **motivated and disciplined learner** with hands-on experience in **data analysis and machine learning projects** using real-world datasets.  
-I enjoy transforming raw data into **meaningful insights**, building **predictive models**, and continuously improving my **technical and analytical skills**.
+I am a motivated and disciplined learner focused on building practical data science and machine learning solutions using real-world datasets.
 
-🛠️ Skills & Tools
-🔹 Programming
-Currently, I am focused on **strengthening my fundamentals** and creating **portfolio-ready projects**.
+My work involves transforming raw data into meaningful insights, building predictive models, and developing simple web applications that demonstrate machine learning solutions.
 
-Python, SQL, C
+Currently, I am strengthening my fundamentals in data analysis, machine learning, and model deployment while building portfolio-ready projects.
+
 ---
 
-🔹 Data Analysis
-## 🛠 Skills & Tools
+## Skills and Tools
 
-Pandas, NumPy, Matplotlib, Exploratory Data Analysis (EDA)
-| Programming | Data Analysis | Machine Learning | Web Basics | Tools |
-|------------|---------------|----------------|-----------|-------|
-| Python, SQL, C | Pandas, NumPy, Matplotlib, EDA | Scikit-learn (Classification & Regression) | HTML, CSS, JavaScript | Git, GitHub, VS Code, Jupyter Notebook |
+| Programming | Data Analysis | Machine Learning | Web Development | Tools |
+|-------------|---------------|-----------------|----------------|------|
+| Python, SQL, C | Pandas, NumPy, Matplotlib, Exploratory Data Analysis | Scikit-learn (Classification and Regression) | HTML, CSS, JavaScript | Git, GitHub, VS Code, Jupyter Notebook |
 
-🔹 Machine Learning
 ---
 
-Scikit-learn (Classification & Regression – Basics)
-## 📂 Featured Projects
+## Featured Projects
 
-🔹 Web Basics
+### House Price Prediction Web Application
+A machine learning web application that predicts house prices based on user input features.
 
-HTML, CSS, JavaScript
+Key Work  
+- Performed data preprocessing and exploratory data analysis  
+- Implemented regression models for price prediction  
+- Built a simple web interface for user predictions  
 
-🔹 Tools
+Technologies Used  
+Python, Pandas, Scikit-learn, HTML, CSS  
 
-Git, GitHub, VS Code, Jupyter Notebook
+Repository  
+https://github.com/hassan-ali786/house-price-prediction
 
-📂 Featured Projects
-📉 Customer Churn Prediction
+---
 
-Built a classification model to predict customer churn
+### Diabetes Prediction Web Application
+A machine learning system designed to predict the likelihood of diabetes using medical attributes.
 
-Applied data preprocessing, feature engineering, and ML algorithms
+Key Work  
+- Data preprocessing and feature preparation  
+- Training and evaluation of classification models  
+- Developed a simple web interface for prediction  
 
-🧩 Customer Segmentation
+Technologies Used  
+Python, Pandas, Scikit-learn, HTML, CSS  
 
-Used K-Means clustering to segment customers based on behavior
+Repository  
+https://github.com/hassan-ali786/diabetes-prediction-webapp
 
-Visualized insights to support business decision-making
+---
 
-🏠 House Price Prediction
+### Loan Approval Prediction Web Application
+A predictive system that determines whether a loan application is likely to be approved.
 
-Regression-based ML model to predict house prices
+Key Work  
+- Data cleaning and feature engineering  
+- Training classification algorithms on financial dataset  
+- Built a web application for prediction  
 
-Performed EDA and feature selection on structured data
+Technologies Used  
+Python, Pandas, Scikit-learn, HTML, CSS  
 
-🖼 Image Classification using CNN
+Repository  
+https://github.com/hassan-ali786/loan-approval-prediction
 
-Implemented a Convolutional Neural Network (CNN) for image classification
+---
 
-Learned fundamentals of deep learning and model evaluation
+## Currently Learning
 
-👉 Visit my repositories for detailed code, datasets, and explanations.
+Advanced Data Analysis  
+Machine Learning Algorithms  
+Model Evaluation Techniques  
+Basic Model Deployment
 
-🌱 Currently Learning
+---
 
-Advanced Data Analysis Techniques
+## Connect With Me
 
-Machine Learning Algorithms
+GitHub  
+https://github.com/hassan-ali786  
 
-Model Evaluation & Basic Deployment Concepts
+LinkedIn  
+https://www.linkedin.com/in/hassan-ali-885535321  
 
-🔗 Connect With Me
+---
 
-GitHub: https://github.com/hassan-ali786
+## Tech Stack
 
-LinkedIn: https://www.linkedin.com/in/hassan-ali-885535321
-
-⭐ If you find my work useful, feel free to explore my repositories and give a star!
-
-🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
