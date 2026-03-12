@@ -61,9 +61,6 @@ A machine learning web application that predicts house prices based on user inpu
 
 **Repository:** [House Price Prediction](https://github.com/hassan-ali786/house-price-prediction)  
 
-**Screenshot:**  
-`![House Price Web App](link-to-your-screenshot.png)`  
-
 ---
 
 ### 🩺 Diabetes Prediction Web Application
@@ -82,9 +79,6 @@ Predicts the likelihood of diabetes using medical attributes.
 
 **Repository:** [Diabetes Prediction Web App](https://github.com/hassan-ali786/diabetes-prediction-webapp)  
 
-**Screenshot:**  
-`![Diabetes Prediction Web App](link-to-your-screenshot.png)`  
-
 ---
 
 ### 💰 Loan Approval Prediction Web Application
@@ -101,8 +95,9 @@ Predicts whether a loan application will be approved.
 
 **Repository:** [Loan Approval Prediction](https://github.com/hassan-ali786/loan-approval-prediction)  
 
-**Screenshot:**  
-`![Loan Approval Web App](link-to-your-screenshot.png)`  
+**Live Demo:**
+Try the application here:
+https://loan-approval-system--hassanmlcoder.replit.app
 
 ---
 
