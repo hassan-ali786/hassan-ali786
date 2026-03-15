@@ -105,9 +105,11 @@ https://loan-approval-system--hassanmlcoder.replit.app
 ## Connect With Me
 
 **Email:** hassanalitech54@gmail.com  
+**Portfolio:** https://bit.ly/HassanSite  
+**Kaggle:** https://www.kaggle.com/hassanali789
 **GitHub:** [github.com/hassan-ali786](https://github.com/hassan-ali786)  
 **LinkedIn:** [linkedin.com/in/hassan-ali-885535321](https://www.linkedin.com/in/hassan-ali-885535321)
-**Portfolio Website**[ https://bit.ly/HassanSite]
+
 
 
 
