@@ -15,6 +15,7 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 
 ---
 
+
 ## Skills and Tools
 
 | Programming | Data Analysis | Machine Learning | Web Development | Tools |
@@ -46,7 +47,7 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 
 ## Featured Projects
 
-### 🏠 House Price Prediction Web Application
+###  House Price Prediction Web Application
 A machine learning web application that predicts house prices based on user input features.  
 
 **Key Work:**  
@@ -63,7 +64,7 @@ A machine learning web application that predicts house prices based on user inpu
 
 ---
 
-### 🩺 Diabetes Prediction Web Application
+###  Diabetes Prediction Web Application
 Predicts the likelihood of diabetes using medical attributes.  
 
 **Key Work:**  
@@ -81,7 +82,7 @@ Predicts the likelihood of diabetes using medical attributes.
 
 ---
 
-### 💰 Loan Approval Prediction Web Application
+###  Loan Approval Prediction Web Application
 Predicts whether a loan application will be approved.  
 
 **Key Work:**  
@@ -106,6 +107,9 @@ https://loan-approval-system--hassanmlcoder.replit.app
 **Email:** hassanalitech54@gmail.com  
 **GitHub:** [github.com/hassan-ali786](https://github.com/hassan-ali786)  
 **LinkedIn:** [linkedin.com/in/hassan-ali-885535321](https://www.linkedin.com/in/hassan-ali-885535321)
+**Portfolio Website**[ https://bit.ly/HassanSite]
+
+
 
 ---
 
@@ -120,3 +124,13 @@ https://loan-approval-system--hassanmlcoder.replit.app
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+
+---
+
+## GitHub Stats
+
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-ali786&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-ali786&layout=compact)
+
+---
