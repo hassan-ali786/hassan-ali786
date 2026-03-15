@@ -102,11 +102,11 @@ https://loan-approval-system--hassanmlcoder.replit.app
 
 ## Connect With Me
 
-**Email:** hassanalitech54@gmail.com  
-**Portfolio:** https://bit.ly/HassanSite  
-**Kaggle:** [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/hassanali789)  
-**GitHub:** https://github.com/hassan-ali786  
-**LinkedIn:** https://www.linkedin.com/in/hassan-ali-885535321  
+[![Email](https://img.shields.io/badge/Email-hassanalitech54@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hassanalitech54@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-HassanSite-blue?style=flat&logo=website&logoColor=white)](https://bit.ly/HassanSite)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/hassanali789)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github&logoColor=white)](https://github.com/hassan-ali786)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-ali-885535321)
 
 ---
 
