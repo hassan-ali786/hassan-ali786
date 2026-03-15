@@ -15,7 +15,6 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 
 ---
 
-
 ## Skills and Tools
 
 | Programming | Data Analysis | Machine Learning | Web Development | Tools |
@@ -96,8 +95,7 @@ Predicts whether a loan application will be approved.
 
 **Repository:** [Loan Approval Prediction](https://github.com/hassan-ali786/loan-approval-prediction)  
 
-**Live Demo:**
-Try the application here:
+**Live Demo:**  
 https://loan-approval-system--hassanmlcoder.replit.app
 
 ---
@@ -105,17 +103,10 @@ https://loan-approval-system--hassanmlcoder.replit.app
 ## Connect With Me
 
 **Email:** hassanalitech54@gmail.com  
-
 **Portfolio:** https://bit.ly/HassanSite  
-
-**Kaggle:** https://www.kaggle.com/hassanali789  
-
+**Kaggle:** [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/hassanali789)  
 **GitHub:** https://github.com/hassan-ali786  
-
-**LinkedIn:** https://www.linkedin.com/in/hassan-ali-885535321
-
-
-
+**LinkedIn:** https://www.linkedin.com/in/hassan-ali-885535321  
 
 ---
 
@@ -140,3 +131,7 @@ https://loan-approval-system--hassanmlcoder.replit.app
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-ali786&layout=compact)
 
 ---
+
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/hassan-ali786/count.svg)
