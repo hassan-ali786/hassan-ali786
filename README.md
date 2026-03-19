@@ -1,6 +1,5 @@
 # Hassan Ali
-
-Aspiring Data Scientist and Machine Learning Engineer with hands-on experience in data analysis, predictive modeling, and deploying machine learning solutions.  
+Data Scientist and Machine Learning Engineer with hands-on experience in data analysis, predictive modeling, and deploying machine learning solutions.  
 Passionate about solving real-world problems with data and building portfolio-ready machine learning applications.
 
 ---
