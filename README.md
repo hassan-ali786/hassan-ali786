@@ -124,7 +124,7 @@ https://loan-approval-system--hassanmlcoder.replit.app
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan-ali786&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hassan-ali786&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-ali786&layout=compact&theme=radical)
 
