@@ -124,13 +124,12 @@ https://loan-approval-system--hassanmlcoder.replit.app
 ---
 
 ## GitHub Stats
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-ali786&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-ali786&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-ali786&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-ali786&layout=compact&theme=radical)
 
 ---
 
 ## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/hassan-ali786/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=hassan-ali786&label=Profile%20views&color=0e75b6&style=flat)
