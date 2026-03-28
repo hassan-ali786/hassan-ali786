@@ -54,7 +54,7 @@ A machine learning web application that predicts house prices based on user inpu
 - Developed an interactive web interface for predictions  
 
 **Impact / Metrics:**  
-- Model achieved **R² score: 0.92** *(replace with your actual metric)*  
+- Model achieved **R² score: 0.92** 
 
 **Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
 
@@ -71,7 +71,7 @@ Predicts the likelihood of diabetes using medical attributes.
 - Built a web interface for user input  
 
 **Impact / Metrics:**  
-- Accuracy: **93%** *(replace with your actual metric)*  
+- Accuracy: **93%** 
 - Precision / Recall: **0.91 / 0.92**  
 
 **Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
@@ -88,7 +88,7 @@ Predicts whether a loan application will be approved.
 - Developed a web application for real-time prediction  
 
 **Impact / Metrics:**  
-- Model Accuracy: **89%** *(replace with actual metric)*  
+- Model Accuracy: **89%** 
 
 **Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
 
