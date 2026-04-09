@@ -115,6 +115,10 @@ https://loan-approval-system--hassanmlcoder.replit.app
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
+
+![Natural Language Processing](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-green)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red)
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
