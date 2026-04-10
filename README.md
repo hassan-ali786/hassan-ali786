@@ -99,6 +99,25 @@ https://loan-approval-system--hassanmlcoder.replit.app
 
 ---
 
+### Resume Job Recommender   
+A machine learning-based web application that matches resumes with relevant job roles using natural language processing and similarity techniques.
+
+**Key Work:**  
+- Data preprocessing, text cleaning, and feature extraction from resumes and job descriptions  
+- Built a recommendation system using NLP techniques for job matching  
+- Developed an interactive web interface for uploading resumes and getting job suggestions  
+
+**Impact / Metrics:**  
+- Improved accuracy in matching relevant job roles based on resume content  
+- Better alignment between candidate skills and job requirements using similarity scoring  
+
+**Tech Stack:**  
+Python, Pandas, Scikit-learn, NLP, Streamlit, Python,   
+
+**Repository:** [Loan Approval Prediction](https://github.com/hassan-ali786/resume-job-recommender)
+
+---
+
 ## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-hassanalitech54@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hassanalitech54@gmail.com)  
