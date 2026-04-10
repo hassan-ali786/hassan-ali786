@@ -114,7 +114,7 @@ A machine learning-based web application that matches resumes with relevant job 
 **Tech Stack:**  
 Python, Pandas, Scikit-learn, NLP, Streamlit, Python,   
 
-**Repository:** [Loan Approval Prediction](https://github.com/hassan-ali786/resume-job-recommender)
+**Repository:** [Resume Job Recommender](https://github.com/hassan-ali786/resume-job-recommender)
 
 ---
 
