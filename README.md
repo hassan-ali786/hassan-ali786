@@ -34,7 +34,7 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 ## Education & Certifications
 
 **Education:**  
-- Intermediate (Pre-Engineering)  
+- Associate Degree in Science (Pursuing)  
 
 **Certifications:**  
 - Data Science and Analytics – HP  
