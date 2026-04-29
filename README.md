@@ -92,10 +92,7 @@ Predicts whether a loan application will be approved.
 
 **Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
 
-**Repository:** [Loan Approval Prediction](https://github.com/hassan-ali786/loan-approval-prediction)  
-
-**Live Demo:**  
-https://loan-approval-system--hassanmlcoder.replit.app
+**Repository:** [Loan Approval Prediction](https://github.com/hassan-ali786/loan-approval-system.git)  
 
 ---
 
