@@ -109,12 +109,12 @@ Predicts whether water is safe for drinking using water quality parameters.
 - Built a web interface for water safety prediction  
 
 **Impact / Metrics:**  
-- Accuracy: **89%**  
+- Accuracy: **70%**  
 - Precision / Recall: **0.88 / 0.90**  
 
 **Technologies Used:** Python, Pandas, Scikit-learn, Streamlit, HTML, CSS  
 
-**Repository:** [Water Quality Data Analysis & Prediction](https://github.com/)  
+**Repository:** [Water Quality Data Analysis & Prediction](https://github.com/hassan-ali786/water-quality-prediction-ml.git)  
 
 ---
 
