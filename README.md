@@ -54,7 +54,7 @@ Predicts the likelihood of diabetes using medical attributes.
 - Built a web interface for user input  
 
 **Impact / Metrics:**  
-- Accuracy: **93%** 
+- Accuracy: **73%** 
 - Precision / Recall: **0.91 / 0.92**  
 
 **Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
