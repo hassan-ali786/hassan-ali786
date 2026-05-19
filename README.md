@@ -99,7 +99,6 @@ Python, Pandas, Scikit-learn, NLP, Streamlit, Python,
 **Repository:** [Resume Job Recommender](https://github.com/hassan-ali786/resume-job-recommender)
 
 ---
----
 
 ### Water Quality Data Analysis & Prediction
 Predicts whether water is safe for drinking using water quality parameters.  
