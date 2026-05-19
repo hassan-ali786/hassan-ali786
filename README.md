@@ -34,6 +34,7 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 ## Education & Certifications
 
 **Education:**  
+- Intermediate (Completed)
 - Associate Degree in Science (Pursuing)  
 
 **Certifications:**  
