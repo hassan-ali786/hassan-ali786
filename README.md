@@ -38,8 +38,8 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 
 **Certifications:**  
 - Data Science and Analytics – HP  
-- Python for Data Science – Kaggle  
-- Discover the Art of Prompting – Coursera  
+- Discover the Art of Prompting – Coursera
+- Machine Learning Statical Foundations - WOLFARM
 
 ---
 
