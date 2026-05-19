@@ -97,6 +97,41 @@ Python, Pandas, Scikit-learn, NLP, Streamlit, Python,
 **Repository:** [Resume Job Recommender](https://github.com/hassan-ali786/resume-job-recommender)
 
 ---
+---
+
+### Water Quality Data Analysis & Prediction
+Predicts whether water is safe for drinking using water quality parameters.  
+
+**Key Work:**  
+- Data cleaning and preprocessing  
+- Classification model development and evaluation  
+- Built a web interface for water safety prediction  
+
+**Impact / Metrics:**  
+- Accuracy: **89%**  
+- Precision / Recall: **0.88 / 0.90**  
+
+**Technologies Used:** Python, Pandas, Scikit-learn, Streamlit, HTML, CSS  
+
+**Repository:** [Water Quality Data Analysis & Prediction](https://github.com/)  
+
+---
+
+### Medical NLP Analyzer
+Analyzes medical text data using Natural Language Processing techniques.  
+
+**Key Work:**  
+- Medical text cleaning and preprocessing  
+- NLP model development and evaluation  
+- Built a web interface for medical text analysis  
+
+**Impact / Metrics:**  
+- Accuracy: **86%**  
+- Precision / Recall: **0.84 / 0.87**  
+
+**Technologies Used:** Python, Pandas, Scikit-learn, NLTK, Flask, HTML, CSS  
+
+**Repository:** [Medical NLP Analyzer](https://github.com/)
 
 ## Connect With Me
 
