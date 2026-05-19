@@ -45,23 +45,6 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 
 ## Featured Projects
 
-###  House Price Prediction Web Application
-A machine learning web application that predicts house prices based on user input features.  
-
-**Key Work:**  
-- Data preprocessing, feature engineering, and exploratory data analysis  
-- Regression model implementation for price prediction  
-- Developed an interactive web interface for predictions  
-
-**Impact / Metrics:**  
-- Model achieved **R² score: 0.92** 
-
-**Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
-
-**Repository:** [House Price Prediction](https://github.com/hassan-ali786/house-price-prediction)  
-
----
-
 ###  Diabetes Prediction Web Application
 Predicts the likelihood of diabetes using medical attributes.  
 
