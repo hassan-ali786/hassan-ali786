@@ -127,12 +127,12 @@ Analyzes medical text data using Natural Language Processing techniques.
 - Built a web interface for medical text analysis  
 
 **Impact / Metrics:**  
-- Accuracy: **86%**  
-- Precision / Recall: **0.84 / 0.87**  
+- Accuracy: **84%**  
+- Precision / Recall: **0.86 / 0.96**  
 
 **Technologies Used:** Python, Pandas, Scikit-learn, NLTK, Flask, HTML, CSS  
 
-**Repository:** [Medical NLP Analyzer](https://github.com/)
+**Repository:** [Medical NLP Analyzer](https://github.com/hassan-ali786/medical-nlp-analyzer.git)
 
 ## Connect With Me
 
