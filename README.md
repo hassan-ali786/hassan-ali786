@@ -40,6 +40,7 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 - Data Science and Analytics – HP  
 - Discover the Art of Prompting – Coursera
 - Machine Learning Statical Foundations - WOLFARM
+- Career Essentials in GitHub - GitHub
 
 ---
 
