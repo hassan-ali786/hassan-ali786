@@ -96,7 +96,7 @@ A machine learning-based web application that matches resumes with relevant job 
 Python, Pandas, Scikit-learn, NLP, Streamlit, Python,   
 
 **Repository:** [Resume Job Recommender](https://github.com/hassan-ali786/resume-job-recommender)
-
+**Live Demo:**
 ---
 
 ### Water Quality Data Analysis & Prediction
