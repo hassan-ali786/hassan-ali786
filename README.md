@@ -46,7 +46,7 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 
 ## Featured Projects
 
-###  Diabetes Prediction Web Application
+###  Diabetes Prediction Web App
 Predicts the likelihood of diabetes using medical attributes.  
 
 **Key Work:**  
