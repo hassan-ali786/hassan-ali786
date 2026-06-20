@@ -116,7 +116,7 @@ Predicts whether water is safe for drinking using water quality parameters.
 
 **Repository:** [Water Quality Data Analysis & Prediction](https://github.com/hassan-ali786/water-quality-prediction-ml.git)  
 
-**Live Demo:** [Live Demo] https://water-quality-prediction-ml-eykh9eeqjxvj3gpzxurkmz.streamlit.app/Prediction
+**Live Demo:** [Live Demo].(https://water-quality-prediction-ml-eykh9eeqjxvj3gpzxurkmz.streamlit.app/Prediction).
 
 ---
 
