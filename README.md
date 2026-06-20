@@ -65,7 +65,7 @@ Predicts the likelihood of diabetes using medical attributes.
 
 ---
 
-###  Loan Approval Prediction Web Application
+###  Loan Approval Prediction Web App
 Predicts whether a loan application will be approved.  
 
 **Key Work:**  
