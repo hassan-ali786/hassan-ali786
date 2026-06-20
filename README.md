@@ -46,21 +46,25 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 
 ## Featured Projects
 
-###  Diabetes Prediction Web App
-Predicts the likelihood of diabetes using medical attributes.  
+### Water Quality Data Analysis & Prediction
+Predicts whether water is safe for drinking using water quality parameters.  
 
 **Key Work:**  
 - Data cleaning and preprocessing  
 - Classification model development and evaluation  
-- Built a web interface for user input  
+- Built a web interface for water safety prediction  
 
 **Impact / Metrics:**  
-- Accuracy: **73%** 
-- Precision / Recall: **0.91 / 0.92**  
+- Accuracy: **70%**  
+- Precision / Recall: **0.88 / 0.90**  
 
-**Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
+**Technologies Used:** Python, Pandas, Scikit-learn, Streamlit, HTML, CSS  
 
-**Repository:** [Diabetes Prediction Web App](https://github.com/hassan-ali786/diabetes-prediction-webapp)  
+**Repository:** [Water Quality Data Analysis & Prediction](https://github.com/hassan-ali786/water-quality-prediction-ml.git)  
+
+**Live Demo:** [Live Demo](https://water-quality-prediction-ml-eykh9eeqjxvj3gpzxurkmz.streamlit.app/Prediction)  
+
+
 
 ---
 
@@ -99,24 +103,21 @@ Python, Pandas, Scikit-learn, NLP, Streamlit, Python,
 
 **Live Demo:**
 ---
-
-### Water Quality Data Analysis & Prediction
-Predicts whether water is safe for drinking using water quality parameters.  
+###  Diabetes Prediction Web App
+Predicts the likelihood of diabetes using medical attributes.  
 
 **Key Work:**  
 - Data cleaning and preprocessing  
 - Classification model development and evaluation  
-- Built a web interface for water safety prediction  
+- Built a web interface for user input  
 
 **Impact / Metrics:**  
-- Accuracy: **70%**  
-- Precision / Recall: **0.88 / 0.90**  
+- Accuracy: **73%** 
+- Precision / Recall: **0.91 / 0.92**  
 
-**Technologies Used:** Python, Pandas, Scikit-learn, Streamlit, HTML, CSS  
+**Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
 
-**Repository:** [Water Quality Data Analysis & Prediction](https://github.com/hassan-ali786/water-quality-prediction-ml.git)  
-
-**Live Demo:** [Live Demo](https://water-quality-prediction-ml-eykh9eeqjxvj3gpzxurkmz.streamlit.app/Prediction)  
+**Repository:** [Diabetes Prediction Web App](https://github.com/hassan-ali786/diabetes-prediction-webapp)  
 
 ---
 
