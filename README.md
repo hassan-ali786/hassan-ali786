@@ -64,8 +64,6 @@ Predicts whether water is safe for drinking using water quality parameters.
 
 **Live Demo:** [Live Demo](https://water-quality-prediction-ml-eykh9eeqjxvj3gpzxurkmz.streamlit.app/Prediction)  
 
-
-
 ---
 
 ###  Loan Approval Prediction Web App
@@ -101,7 +99,8 @@ Python, Pandas, Scikit-learn, NLP, Streamlit, Python,
 
 **Repository:** [Resume Job Recommender](https://github.com/hassan-ali786/resume-job-recommender)
 
-**Live Demo:**
+**Live Demo:** [Live Demo](https://resume-job-recommender-ovbmfzmfxzylcedghofmaa.streamlit.app/)
+
 ---
 ###  Diabetes Prediction Web App
 Predicts the likelihood of diabetes using medical attributes.  
