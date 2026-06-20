@@ -96,6 +96,7 @@ A machine learning-based web application that matches resumes with relevant job 
 Python, Pandas, Scikit-learn, NLP, Streamlit, Python,   
 
 **Repository:** [Resume Job Recommender](https://github.com/hassan-ali786/resume-job-recommender)
+
 **Live Demo:**
 ---
 
@@ -115,6 +116,8 @@ Predicts whether water is safe for drinking using water quality parameters.
 
 **Repository:** [Water Quality Data Analysis & Prediction](https://github.com/hassan-ali786/water-quality-prediction-ml.git)  
 
+**Live Demo:**
+
 ---
 
 ### Medical NLP Analyzer
@@ -132,6 +135,9 @@ Analyzes medical text data using Natural Language Processing techniques.
 **Technologies Used:** Python, Pandas, Scikit-learn, NLTK, Flask, HTML, CSS  
 
 **Repository:** [Medical NLP Analyzer](https://github.com/hassan-ali786/medical-nlp-analyzer.git)
+
+**Live Demo:**
+
 
 ## Connect With Me
 
