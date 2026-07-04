@@ -142,7 +142,7 @@ Analyzes medical text data using Natural Language Processing techniques.
 ## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-hassanalitech54@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:hassanalitech54@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-HassanSite-blue?style=flat&logo=google-chrome&logoColor=white)](https://hassanali-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=google-chrome&logoColor=white)](https://hassanali-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github&logoColor=white)](https://github.com/hassan-ali786)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-ali-885535321)
 
