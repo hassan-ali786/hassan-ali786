@@ -66,19 +66,28 @@ Predicts whether water is safe for drinking using water quality parameters.
 
 ---
 
-###  Loan Approval Prediction Web App
-Predicts whether a loan application will be approved.  
+### LoanIQ — AI-Powered Loan Approval Prediction System
 
-**Key Work:**  
-- Data cleaning, feature engineering, and training classification algorithms  
-- Developed a web application for real-time prediction  
+An end-to-end machine learning web application that predicts loan approval outcomes with **explainable AI (SHAP & LIME)**, role-based authentication, and a full admin dashboard.
 
-**Impact / Metrics:**  
-- Model Accuracy: **89%** 
+The system combines predictive modeling with production-level features including user management, analytics dashboard, reporting system, and audit logging.
 
-**Technologies Used:** Python, Pandas, Scikit-learn, HTML, CSS  
+**Key Work:**
+- Data cleaning, feature engineering, and training multiple ML models (Random Forest, XGBoost, LightGBM)
+- Automated model selection using cross-validation
+- Built explainable AI system using SHAP (global) and LIME (local explanations)
+- Developed full-stack web application with authentication, admin panel, and analytics dashboard
 
-**Repository:** [Loan Approval Prediction](https://github.com/hassan-ali786/loan-approval-system.git)  
+**Impact / Metrics:**
+- Model Accuracy: **~82%**
+- Recall (Approved Class): **~0.89**
+- 5-Fold Cross Validation with best model auto-selection
+
+**Technologies Used:**
+Python, Flask, Pandas, Scikit-learn, XGBoost, LightGBM, SHAP, LIME, SQLite, HTML, CSS, JavaScript
+
+**Repository:**
+https://github.com/hassan-ali786/loan-approval-system.git
 
 ---
 
