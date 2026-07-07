@@ -35,7 +35,7 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 
 **Education:**  
 - Intermediate (Completed)
-→ Associate Degree in Science (In Progress)
+- Associate Degree in Science (In Progress)
 
 **Certifications:**  
 - Discover the Art of Prompting – Coursera
@@ -68,26 +68,23 @@ Predicts whether water is safe for drinking using water quality parameters.
 
 ### LoanIQ — AI-Powered Loan Approval Prediction System
 
-An end-to-end machine learning web application that predicts loan approval outcomes with **explainable AI (SHAP & LIME)**, role-based authentication, and a full admin dashboard.
-
-The system combines predictive modeling with production-level features including user management, analytics dashboard, reporting system, and audit logging.
+An end-to-end machine learning web application that predicts loan approval outcomes using **explainable AI (SHAP & LIME)** with role-based authentication and an admin dashboard.
 
 **Key Work:**
-- Data cleaning, feature engineering, and training multiple ML models (Random Forest, XGBoost, LightGBM)
-- Automated model selection using cross-validation
-- Built explainable AI system using SHAP (global) and LIME (local explanations)
-- Developed full-stack web application with authentication, admin panel, and analytics dashboard
+- Data preprocessing, feature engineering, and training ML models (Random Forest, XGBoost, LightGBM)
+- Implemented SHAP and LIME for model explainability
+- Developed a full-stack web application with authentication and analytics dashboard
 
 **Impact / Metrics:**
 - Model Accuracy: **~82%**
 - Recall (Approved Class): **~0.89**
-- 5-Fold Cross Validation with best model auto-selection
+- 5-Fold Cross Validation
 
 **Technologies Used:**
 Python, Flask, Pandas, Scikit-learn, XGBoost, LightGBM, SHAP, LIME, SQLite, HTML, CSS, JavaScript
 
 **Repository:**
-https://github.com/hassan-ali786/loan-approval-system.git
+[LoanIQ — AI-Powered Loan Approval Prediction System](https://github.com/hassan-ali786/loan-approval-system)
 
 ---
 
