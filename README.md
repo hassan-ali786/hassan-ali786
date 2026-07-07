@@ -35,7 +35,7 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 
 **Education:**  
 - Intermediate (Completed)
-- Associate Degree in Science (Pursuing)  
+→ Associate Degree in Science (In Progress)
 
 **Certifications:**  
 - Discover the Art of Prompting – Coursera
