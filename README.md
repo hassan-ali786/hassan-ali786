@@ -39,7 +39,7 @@ Currently, I am focused on strengthening my technical expertise in **advanced da
 
 **Certifications:**  
 - Discover the Art of Prompting – Coursera
-- Machine Learning Statical Foundations - WOLFARM
+- Machine Learning Statistical Foundations - WOLFARM
 - Career Essentials in GitHub - GitHub
 
 ---
