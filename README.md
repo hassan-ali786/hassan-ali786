@@ -83,26 +83,24 @@ AI-powered loan approval prediction system with explainable AI.
 
 ---
 
-### Resume Job Recommender   
-A machine learning-based web application that matches resumes with relevant job roles using natural language processing and similarity techniques.
+### Resume Job Recommender
 
-**Key Work:**  
-- Data preprocessing, text cleaning, and feature extraction from resumes and job descriptions  
-- Built a recommendation system using NLP techniques for job matching  
-- Developed an interactive web interface for uploading resumes and getting job suggestions  
+ML-based web app that recommends job roles from resume content using NLP.
 
-**Impact / Metrics:**  
-- Improved accuracy in matching relevant job roles based on resume content  
-- Better alignment between candidate skills and job requirements using similarity scoring  
+**Key Work:**
+- Preprocessed resume & job description data
+- Built an NLP-based job recommendation system
+- Developed an interactive Streamlit web app
 
-**Tech Stack:**  
-Python, Pandas, Scikit-learn, NLP, Streamlit, Python,   
+**Impact:** Improved job-role matching using similarity scoring
 
-**Repository:** [Resume Job Recommender](https://github.com/hassan-ali786/resume-job-recommender)
+**Tech:** Python, Pandas, Scikit-learn, NLP, Streamlit
 
-**Live Demo:** [Live Demo](https://resume-job-recommender-ovbmfzmfxzylcedghofmaa.streamlit.app/)
+**Repo:** https://github.com/hassan-ali786/resume-job-recommender  
+**Live:** https://resume-job-recommender-ovbmfzmfxzylcedghofmaa.streamlit.app/
 
 ---
+
 ###  Diabetes Prediction Web App
 Predicts the likelihood of diabetes using medical attributes.  
 
