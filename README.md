@@ -96,7 +96,7 @@ ML-based web app that recommends job roles from resume content using NLP.
 
 **Tech:** Python, Pandas, Scikit-learn, NLP, Streamlit
 
-**Repo:** https://github.com/hassan-ali786/resume-job-recommender  
+**Repo:**  [Resume Job Recommender](https://github.com/hassan-ali786/resume-job-recommender)
 **Live Demo:** https://resume-job-recommender-ovbmfzmfxzylcedghofmaa.streamlit.app/
 
 ---
