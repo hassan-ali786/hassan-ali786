@@ -79,7 +79,7 @@ AI-powered loan approval prediction system with explainable AI.
 
 **Tech:** Python, Flask, Scikit-learn, XGBoost, LightGBM, SHAP, LIME, SQLite, HTML, CSS, JavaScript
 
-**Repo:** https://github.com/hassan-ali786/loan-approval-system
+**Repo:** [LoanIQ — AI Loan Approval Prediction](https://github.com/hassan-ali786/loan-approval-system)  
 
 ---
 
